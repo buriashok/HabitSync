@@ -1,0 +1,32 @@
+# Project specific
+.gradle
+/build
+/app/build
+/local.properties
+.idea/workspace.xml
+.idea/libraries
+.idea/shelf
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+.idea/caches
+*.iml
+
+# Android Studio
+captures/
+.externalNativeBuild
+.cxx
+.navigation/
+
+# Kotlin
+/bin
+/out
+
+# Log files
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services
+google-services.json (optional: keep if you want others to see the config, but usually ignored for security)

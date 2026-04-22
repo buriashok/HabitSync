@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HabitSync</string>
+    <string name="short_description">Sync your habits, transform your life.</string>
+    <string name="full_description">HabitSync is your ultimate companion for building lasting habits and achieving your goals. Track your daily routines, maintain powerful streaks, and earn XP as you level up your life. With seamless cloud sync via Firebase, your progress is always with you. Features include an AI Coach, detailed analytics, and a global leaderboard to keep you motivated. Start your journey with HabitSync today!</string>
+</resources>

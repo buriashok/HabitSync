@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200245445482",
+    "project_id": "habit-sync-fb08b",
+    "storage_bucket": "habit-sync-fb08b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200245445482:android:436ff0483207f7798adb13",
+        "android_client_info": {
+          "package_name": "com.habitflow.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200245445482-6r8k4m36rb9n1a5s6csusmgu2hktargj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.habitflow.newapp",
+            "certificate_hash": "0760e2bf694aa9f7d385d6e80523b24358005af2"
+          }
+        },
+        {
+          "client_id": "200245445482-hhbhho7p141b3qtpc2pi1j76addnp9bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPtdUNsUN6gycDmWSPbsRR2mdqoJlREZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200245445482-hhbhho7p141b3qtpc2pi1j76addnp9bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
